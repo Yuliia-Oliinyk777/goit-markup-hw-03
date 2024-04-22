@@ -302,6 +302,7 @@ a {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-bottom: 16px;
+  display: inline-block;
 }
 
 .half-logo-footer {
